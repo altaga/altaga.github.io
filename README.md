@@ -1,2 +1,0 @@
-# altaga.github.io
-MyWebPage
