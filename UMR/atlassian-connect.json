@@ -2,7 +2,7 @@
      "name": "Hello World",
      "description": "Atlassian Connect app",
      "key": "com.example.myapp",
-     "baseUrl": "http://58d76f846785.ngrok.io",
+     "baseUrl": "https://altaga-hacker.com/UMR/",
      "vendor": {
          "name": "Example, Inc.",
          "url": "http://example.com"
