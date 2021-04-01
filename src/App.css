@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 3.75em;
+  font-weight: 600;
+}
+
+.myTittle{
+  -webkit-text-stroke: 1px white;
+  font-size:50px;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tittles {
+font-size: 3em;
+}
+
+.myText{
+  -webkit-text-stroke: 1px white;
+  font-size:40px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  margin-top: 0px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.Image{
+  height: 30px;
+}
+
+.App-header {
+  background-color: #6eb8eb;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.block{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-link {
+  color: black;
+  font-size: 40px;
+  vertical-align: middle;
+  display: grid;
+}
+
+.myTittle-m{
+  -webkit-text-stroke: 1px white;
+  font-size:40px;
+  margin-top: 20px;
+}
+
+.myText-m{
+  -webkit-text-stroke: 1px white;
+  font-size:34px;
+}
+
+.App-link-m {
+  color: black;
+  font-size: 40px;
+  vertical-align: middle;
+  display: grid;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
